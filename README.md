@@ -23,4 +23,4 @@ The game we created is based on the popular tv series Breaking Bad. The player t
 Testing:
 The assignment involved a testing phase to ensure the proper functioning of all classes and functions. We implemented tests to verify that the code operates without errors and behaves as expected. In addition to individual unit tests for each class, we tested the interactions between them to ensure smooth functionality and to catch any potential issues.
 
-Furthermore, we conducted an end-to-end test to simulate the entire game, ensuring that all elements, from gameplay mechanics to player interactions, worked without any errors. This helped confirm that the game runs smoothly without issues during execution.
+Furthermore, I conducted an end-to-end test to simulate the entire game, ensuring that all elements, from gameplay mechanics to player interactions, worked without any errors. This helped confirm that the game runs smoothly without issues during execution.
